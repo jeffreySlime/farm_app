@@ -1,8 +1,8 @@
 // cart_screen.dart
 
-import 'package:final_project/models/tool_model.dart';
-import 'package:flutter/material.dart';
 import '../models/cart_model.dart'; // Import the cart model
+import 'package:flutter/material.dart';
+// Import the cart model
 
 class CartScreen extends StatelessWidget {
   const CartScreen({Key? key}) : super(key: key);

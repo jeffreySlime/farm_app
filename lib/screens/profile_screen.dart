@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../widgets/user_profile.dart'; // Correct path for the user_profile widget
+import '../widgets/user_Profile.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);
